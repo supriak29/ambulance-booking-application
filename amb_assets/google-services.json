@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957050789942",
+    "project_id": "bookambulance-ef080",
+    "storage_bucket": "bookambulance-ef080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957050789942:android:c3f4b566be36b02bb5f897",
+        "android_client_info": {
+          "package_name": "com.supriyak.bookamb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957050789942-kaqn2arqrcd5ek98nhci5nn9fbtulu6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supriyak.bookamb",
+            "certificate_hash": "94289957692788b8a2657b61100044e4a301c0ed"
+          }
+        },
+        {
+          "client_id": "957050789942-cmlfjdesvbbajeo2r9k2oo1qq7op09h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUS-v8jbpkgVsZGouHj05Fe6gbbhZfYJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957050789942-cmlfjdesvbbajeo2r9k2oo1qq7op09h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
